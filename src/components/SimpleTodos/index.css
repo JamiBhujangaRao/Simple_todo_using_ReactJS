@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.listed-container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 40px;
+  width: 90vw;
+  border-radius: 15px;
+}
+.heading {
+  font-size: 40px;
+  color: #ff8542;
+  font-weight: bold;
+  text-align: center;
+}
